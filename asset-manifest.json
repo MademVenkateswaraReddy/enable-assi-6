@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MademVenkateswaraReddy/enable-assi-6/tree/main/todo-app/static/css/main.9fe07983.css",
+    "main.js": "/MademVenkateswaraReddy/enable-assi-6/tree/main/todo-app/static/js/main.e1889935.js",
+    "static/js/787.379a764d.chunk.js": "/MademVenkateswaraReddy/enable-assi-6/tree/main/todo-app/static/js/787.379a764d.chunk.js",
+    "index.html": "/MademVenkateswaraReddy/enable-assi-6/tree/main/todo-app/index.html",
+    "main.9fe07983.css.map": "/MademVenkateswaraReddy/enable-assi-6/tree/main/todo-app/static/css/main.9fe07983.css.map",
+    "main.e1889935.js.map": "/MademVenkateswaraReddy/enable-assi-6/tree/main/todo-app/static/js/main.e1889935.js.map",
+    "787.379a764d.chunk.js.map": "/MademVenkateswaraReddy/enable-assi-6/tree/main/todo-app/static/js/787.379a764d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe07983.css",
+    "static/js/main.e1889935.js"
+  ]
+}
